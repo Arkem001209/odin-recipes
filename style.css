@@ -18,3 +18,8 @@ div {
 #options {
     color: white;
 }
+
+.button {
+    background-color: blueviolet;
+    color: white;
+}
