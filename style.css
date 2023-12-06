@@ -1,11 +1,14 @@
 div {
     background-color: wheat;
     text-align: center;
-    display:inline-block
+    display:block;
+    padding: 20px;
+    
 }
 
 #title1 {
-
+    color: darkred;
+    text-align: center;
 }
 
 #intro {
