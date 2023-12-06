@@ -1,17 +1,15 @@
 div {
-    background-color: greenyellow;
+    background-color: wheat;
     text-align: center;
+    display:inline-block
 }
 
 #title1 {
-    margin-bottom: 10px;
+
 }
 
 #intro {
-    margin-top: -20px;
-    margin-bottom: 10px;
 }
 
 #options {
-    margin-top: -20px;
 }
